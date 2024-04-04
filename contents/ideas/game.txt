@@ -1,0 +1,11 @@
+Fazer um jogo estilo fallout shelter de exploração espacial com grande gama de opções de expansão e não limitado somente ao subsolo dos vaults.
+-Construção de base ramificada por salas de habitação/trabalhos/estudos
+
+
+O player poderá construir sua cidade no planeta principal e ir expandindo para os demais planetas de sistemas vizinhos espalhados pela galáxia, tipo No Man's Sky
+
+Mecânicas de armas e armaduras juntamente com controle do seu personagem principal, e npcs para formar seu clã num universo escasso de vida em determinadas partes e repleto de conceitos em sua maioria.
+
+Implementar mecânicas de gerenciamento de clã e/ou acampamentos
+
+O jogo não será procedural, mas implementar sistemas de animações e role-play
