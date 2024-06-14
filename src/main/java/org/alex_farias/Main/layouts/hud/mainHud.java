@@ -1,6 +1,6 @@
-package org.alex_farias.Main.Layouts.HUD;
+package org.alex_farias.Main.layouts.hud;
 
-import org.alex_farias.Main.Rules.Rendering;
+import org.alex_farias.Main.rules.Rendering;
 
 public class mainHud implements Rendering {
     private double lifeBar;

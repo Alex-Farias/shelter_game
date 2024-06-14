@@ -1,10 +1,14 @@
 package org.alex_farias.Main;
 
-import org.alex_farias.Main.Layouts.mainLayout;
-import org.alex_farias.Main.Rules.Rendering;
+import org.alex_farias.Main.layouts.mainLayout;
+import org.alex_farias.Main.rules.Rendering;
 
 public class Game implements Rendering {
     private mainLayout layout = new mainLayout();
+
+    public static void main(String[] args) {
+        Game game = new Game();
+    }
 
     public Game(){
 

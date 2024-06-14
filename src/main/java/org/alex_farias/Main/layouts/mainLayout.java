@@ -1,7 +1,7 @@
-package org.alex_farias.Main.Layouts;
+package org.alex_farias.Main.layouts;
 
-import org.alex_farias.Main.Layouts.HUD.mainHud;
-import org.alex_farias.Main.Rules.Rendering;
+import org.alex_farias.Main.layouts.hud.mainHud;
+import org.alex_farias.Main.rules.Rendering;
 
 public class mainLayout implements Rendering {
     private mainHud hud = new mainHud();
