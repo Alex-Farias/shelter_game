@@ -1,4 +1,4 @@
-package org.alex_farias.Main.models;
+package org.alex_farias.Main.entities;
 
 import org.alex_farias.Main.rules.Rendering;
 

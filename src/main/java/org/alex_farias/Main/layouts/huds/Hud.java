@@ -1,8 +1,8 @@
-package org.alex_farias.Main.layouts.hud;
+package org.alex_farias.Main.layouts.huds;
 
 import org.alex_farias.Main.rules.Rendering;
 
-public class mainHud implements Rendering {
+public class Hud implements Rendering {
     private double lifeBar;
     private double staminaBar;
     private double magicBar;
